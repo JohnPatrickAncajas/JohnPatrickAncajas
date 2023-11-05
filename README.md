@@ -25,3 +25,9 @@ I'm looking to collaborate on web-related projects to learn more and contribute 
 You can easily contact me by commenting on my GitHub repositories or through other communication channels you prefer.
 
 Let's connect and create amazing web experiences together! 🚀
+
+## 📊 GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPatrickAncajas&show_icons=true&theme=holi&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JohnPatrickAncajas&theme=github-dark-blue&exclude_days=Tue&card_width=500)](https://git.io/streak-stats)
