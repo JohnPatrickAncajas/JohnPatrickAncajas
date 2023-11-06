@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile. You can call me Patrick!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JohnPatrickAncajas&theme=holi-theme&exclude_days=Tue&card_width=495)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPatrickAncajas&show_icons=true&theme=holi&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JohnPatrickAncajas&theme=holi-theme&exclude_days=Tue&card_width=700)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPatrickAncajas&show_icons=true&theme=holi&card_width=700)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👀 About Me
 
