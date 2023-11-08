@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile. You can call me Patrick!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JohnPatrickAncajas&theme=holi-theme&exclude_days=Tue&card_width=700)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPatrickAncajas&show_icons=true&theme=holi&card_width=700)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JohnPatrickAncajas&theme=holi-theme&exclude_days=Tue&card_width=380)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPatrickAncajas&show_icons=true&theme=holi&card_width=380)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👀 About Me
 
@@ -23,7 +23,7 @@ In addition to the basics, I'm excited about working with CSS and JavaScript fra
 
 I'm looking to collaborate on web-related projects to learn more and contribute to the open-source community. If you have exciting projects or ideas, feel free to reach out!
 
-## 📫 Contact
+## 📫 Let's Connect
 
 You can easily contact me by commenting on my GitHub repositories or through other communication channels you prefer!
 
