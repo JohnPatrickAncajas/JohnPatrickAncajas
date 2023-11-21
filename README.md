@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Patrick!
 
-Welcome to my GitHub profile! Thrilled to have you here. Let's make this coding journey joyful and exciting together!
+Welcome to my GitHub profile! Let's make coding joyful and exciting together!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JohnPatrickAncajas&theme=holi-theme&exclude_days=Tue&card_width=380)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPatrickAncajas&show_icons=true&theme=holi&card_width=380)](https://github.com/anuraghazra/github-readme-stats)
@@ -13,11 +13,11 @@ I'm passionate about full-stack web development, and my current focus is on fron
 
 I'm currently diving deep into web fundamentals, including:
 
-- **HTML:** Building the structure of web pages. Currently understanding user forms.
-- **CSS:** Styling web pages to make them visually appealing. Expanding my knowledge at properties.
-- **JavaScript:** Adding interactivity and functionality to websites. Diving into promises.
+- **HTML:** Building the structure of web pages.
+- **CSS:** Styling web pages to make them visually appealing.
+- **JavaScript:** Adding interactivity and functionality to websites.
 
-In addition to the basics, I'm excited about working with CSS and JavaScript frameworks such as Bootstrap and Vue to enhance my web development skills further.
+In addition to the basics, I'm excited about working with CSS and JavaScript frameworks to enhance my web development skills further.
 
 ## 💞️ Collaboration
 
