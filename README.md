@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! Let's make coding joyful and exciting together!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPatrickAncajas&show_icons=true&theme=holi&card_width=700)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPatrickAncajas&show_icons=true&theme=holi&card_width=380)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👀 About Me
 
