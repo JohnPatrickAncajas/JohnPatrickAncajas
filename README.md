@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Patrick!
+# 👋 Hi, I'm John Patrick Ancajas!
 
-Welcome to my GitHub profile! Let's make coding joyful and exciting together!
+Welcome to my GitHub profile! You can call me Patrick!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPatrickAncajas&show_icons=true&theme=holi&card_width=380)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -30,4 +30,4 @@ Twitter: [_PatrickAncajas](https://twitter.com/_PatrickAncajas)
 
 LinkedIn: [John Patrick Ancajas](https://www.linkedin.com/in/john-patrick-ancajas-2b808828a/)
 
-Let's connect and create amazing web experiences together! 🚀
+Let's connect and create amazing programs together!
