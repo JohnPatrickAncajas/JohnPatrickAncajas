@@ -6,7 +6,7 @@ Welcome to my GitHub profile! You can call me Patrick!
 
 ## 👀 About Me
 
-I'm passionate about full-stack web development, and my current focus is on frontend development. I believe in creating engaging and user-friendly web experiences!
+I'm passionate about full-stack web development, and my current focus is on frontend development!
 
 ## 🌱 Learning Journey
 
