@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! You can call me Patrick!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPatrickAncajas&show_icons=true&theme=holi&card_width=380)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPatrickAncajas&show_icons=true&theme=holi&card_width=380)](https://github-readme-stats-gamma-one-37.vercel.app)
 
 ## 👀 About Me
 
